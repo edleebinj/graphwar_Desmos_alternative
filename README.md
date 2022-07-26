@@ -14,3 +14,15 @@ sympy
 6.hit paste  
 7.click yourself, and you get a preview of the function!  
 8.repeat 5~7 the next time you need preview
+## Important  
+4x is invalid syntax  
+4*x should be used  
+The following functions are tested to be supported:  
+
+(3)/(1+exp(-55*(x+4)))  
+
+3/(1+(-4*(x+3))^2)  
+
+0.5*(abs(x+4)-abs(x-5))  
+
+3*sin(x*2)/(1+exp(-3*(x+1)))  
