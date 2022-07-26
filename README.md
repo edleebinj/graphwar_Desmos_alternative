@@ -12,6 +12,5 @@ sympy
 4.run main.py  
 5.hit update  
 6.hit paste  
-7.click yourself  
-then you get a preview of the function!  
+7.click yourself, and you get a preview of the function!  
 8.repeat 5~7 the next time you need preview
