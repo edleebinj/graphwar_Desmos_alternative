@@ -25,6 +25,6 @@ x^2.5 is invalid as x^2 should be used
 (3)/(1+exp(-55*(x+4)))  
 3/(1+(-4*(x+3))^2)  
 0.5*(abs(x+4)-abs(x-5))  
-3*sin(x*2)/(1+exp(-3*(x+1)))  
+3*sin(2*x)/(1+exp(-3*(x+1)))  
 
 if you find any more bugs tell me at issues
