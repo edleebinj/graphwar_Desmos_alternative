@@ -14,9 +14,12 @@ sympy
 6.hit paste  
 7.click yourself, and you get a preview of the function!  
 8.repeat 5~7 the next time you need preview
-## Important  
-4x is invalid syntax  
-4*x should be used  
+
+## Important!  
+#### if your function won't show up you might have made the following mistakes
+4x is invalid syntax as 4*x should be used  
+e^x is invalid as exp(x) should be used
+x^2.1 is invalid as x^2 should be used
 The following functions are tested to be supported:  
 
 (3)/(1+exp(-55*(x+4)))  
