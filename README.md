@@ -11,8 +11,8 @@ sympy
 2.calculate your function like normal and when you wanted a preview  
 3.copy the function  
 4.run main.py  
-5.hit update  
-6.hit paste  
+5.hit update button  
+6.hit paste button  
 7.click yourself, and you get the preview of the function!  
 8.repeat 5~7 the next time you need preview  
 also this can be used in fullscreen
