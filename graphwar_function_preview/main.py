@@ -5,7 +5,7 @@ from sympy import *
 from win32clipboard import OpenClipboard,GetClipboardData,CloseClipboard
 from minwinpy import minwinpy
 class InteractiveGraph:
-    def __init__(self, samplenum = 100):
+    def __init__(self, samplenum = 200):
         self.samplenum = samplenum
         self.func = "x"
         self.x_min = -25
