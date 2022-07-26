@@ -14,8 +14,8 @@ sympy
 5.hit update  
 6.hit paste  
 7.click yourself, and you get a preview of the function!  
-8.repeat 5~7 the next time you need preview
-
+8.repeat 5~7 the next time you need preview  
+also this can be used in fullscreen
 ## Important!  
 #### if your function won't show up you might have made the following mistakes
 4x is invalid syntax as 4\*x should be used  
