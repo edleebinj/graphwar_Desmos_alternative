@@ -18,14 +18,13 @@ sympy
 ## Important!  
 #### if your function won't show up you might have made the following mistakes
 4x is invalid syntax as 4*x should be used  
-e^x is invalid as exp(x) should be used
-x^2.1 is invalid as x^2 should be used
-The following functions are tested to be supported:  
+e^x is invalid as exp(x) should be used  
+x^2.5 is invalid as x^2 should be used  
 
+#### The following functions are tested to be supported:  
 (3)/(1+exp(-55*(x+4)))  
-
 3/(1+(-4*(x+3))^2)  
-
 0.5*(abs(x+4)-abs(x-5))  
-
 3*sin(x*2)/(1+exp(-3*(x+1)))  
+
+if you find any more bugs tell me at issues
