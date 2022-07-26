@@ -1,6 +1,6 @@
 # graphwar_function_grapher  
 this is a graphwar function previewing tool to effectively avoid mistakes is games  
-![graphwarsc1](https://user-images.githubusercontent.com/81552194/181109164-fc588080-fc81-4005-ba6f-e4c6e3ab15a0.png)
+![graaphwarsc2](https://user-images.githubusercontent.com/81552194/181109910-33740a83-34f2-432d-8509-f7f28dd0f7a8.png)
 ## Dependencies  
 Win32  
 matplotlib  
