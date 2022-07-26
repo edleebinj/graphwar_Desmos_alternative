@@ -1,5 +1,5 @@
 # graphwar_function_grapher  
-### this is a desmos or geogebra alternative with live updating background.
+### This is a desmos or geogebra alternative with live updating background.
 ![graaphwarsc2](https://user-images.githubusercontent.com/81552194/181109910-33740a83-34f2-432d-8509-f7f28dd0f7a8.png)
 ## Dependencies  
 Win32  
