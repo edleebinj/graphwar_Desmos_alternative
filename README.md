@@ -21,6 +21,7 @@ also this can be used in fullscreen
 4x is invalid syntax as 4\*x should be used  
 e^x is invalid as exp(x) should be used  
 x^2.5 is invalid as x^2 should be used  
+unmatched parenthesis is invalid: ((x) is invalid  
 
 #### The following functions are tested to be supported:  
 (3)/(1+exp(-55\*(x+4)))  
