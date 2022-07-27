@@ -28,5 +28,6 @@ unmatched parenthesis is invalid: ((x) is invalid
 3/(1+(-4\*(x+3))^2)  
 0.5\*(abs(x+4)-abs(x-5))  
 3\*sin(2\*x)/(1+exp(-3\*(x+1)))  
+sqrt(0.1+2^2-((abs(x+0)-abs(x-2))^2)/2)+7/(1+exp(-55*(x-2)))+sqrt(0.1+2^2-((abs(x-2)-abs(x-4))^2)/2)-7/(1+exp(-55*(x-4)))+sqrt(0.1+2^2-((abs(x-4)-abs(x-6))^2)/2)
 
 if you find any bugs or suggestions tell me at issues  
